@@ -1,0 +1,28 @@
+SUMMMARY
+no of paragraphs = 0
+org
+      Extending IETF meetings to two weeks?
+      
+         The IETF meetings tend to become too large, creating logistics and planning problems
+Those who choose to attend both weeks would be able to cover more groups and do better liaisons between the different areas
+The Friday of the first week could discuss applications issues which might be of special interest to the other areas, and the Monday of the second week would schedule other groups which might be of special interest to applications people, so some people could attend Monday-Monday or Friday-Friday
+se
+      Re: Extending IETF meetings to two weeks?
+      
+         &gt; The IETF meetings tend to become too large, creating logistics and planning problems
+My problem over the past year or so is that there are only a few session I wish to attend, but I cannot know for sure when they will be scheduled, so I cannot make reasonable travel arrangements (a week in Orlando for 6 hours of meetings is hard to sell to management)
+net&gt;
+      Re: Extending IETF meetings to two weeks?
+      
+         Terry, WG Chairs already are asked to specify which clashes they want to avoid, but clash avoidance is an iterative problem
+Taking one week out of our calendars 3 times a year is already very painful, and a lot of people really do need and want to track multiple areas of the IETF
+For example, it would be very useful so that the final WG schedule was available more than 21 days in advance, in order to get advanced purchase tickets
+This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed
+org
+      Re: create 'final' IETF agenda schedule earlier?
+      
+         &gt; For example, it would be very useful so that the final WG schedule was available more than 21 days in advance, in order to get advanced purchase tickets
+&gt; This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed
+number of words in Context : 796.0
+number of words in Summary : 424.0
+Commpression : 0.5326633165829145
